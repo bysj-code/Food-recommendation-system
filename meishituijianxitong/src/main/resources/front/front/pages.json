@@ -1,0 +1,406 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+		},
+		{
+		"path": "pages/changepassword/changepassword",
+		"style": {
+		"navigationBarBackgroundColor": "#71A842",
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "修改密码"
+			}
+		},
+		{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+		,{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarBackgroundColor": "#71A842",
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值"
+			}
+		}
+
+ 	,{
+		"path": "pages/address/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "添加地址"
+		}
+	},{
+		"path": "pages/address/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的地址"
+		}
+	}
+	,{
+		"path": "pages/cart/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车展示"
+		}
+	},{
+		"path": "pages/cart/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的购物车"
+		}
+	},{
+		"path": "pages/cart/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车添加/修改"
+		}
+	},{
+		"path": "pages/cart/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车详情"
+		}
+	}
+	,{
+		"path": "pages/chat/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "反馈与建议展示"
+		}
+	},{
+		"path": "pages/chat/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的反馈与建议"
+		}
+	},{
+		"path": "pages/chat/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "反馈与建议添加/修改"
+		}
+	},{
+		"path": "pages/chat/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "反馈与建议详情"
+		}
+	}
+       ,{
+		"path": "pages/forum/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "全部发帖"
+		}
+	},{
+		"path": "pages/forum/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发帖详情"
+		}
+	},{
+		"path": "pages/forum/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发帖"
+		}
+	},{
+		"path": "pages/forum/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "发贴(修改/新增)"
+		}
+	}
+	,{
+		"path": "pages/meishi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品展示"
+		}
+	},{
+		"path": "pages/meishi/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的商品"
+		}
+	},{
+		"path": "pages/meishi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品添加/修改"
+		}
+	},{
+		"path": "pages/meishi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品详情"
+		}
+	}
+	,{
+		"path": "pages/meishiCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏展示"
+		}
+	},{
+		"path": "pages/meishiCollection/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的商品收藏"
+		}
+	},{
+		"path": "pages/meishiCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏添加/修改"
+		}
+	},{
+		"path": "pages/meishiCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏详情"
+		}
+	}
+	,{
+		"path": "pages/meishiCommentback/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价展示"
+		}
+	},{
+		"path": "pages/meishiCommentback/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的商品评价"
+		}
+	},{
+		"path": "pages/meishiCommentback/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价添加/修改"
+		}
+	},{
+		"path": "pages/meishiCommentback/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价详情"
+		}
+	}
+	,{
+		"path": "pages/meishiOrder/list",
+		"style": {
+			"navigationBarTitleText": "商品订单"
+		}
+	},{
+	 	"path": "pages/meishiOrder/add-or-update",
+		"style": {
+			"navigationBarTitleText": "商品订单添加/修改"
+		}
+	},{
+		"path": "pages/meishiOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息展示"
+		}
+	},{
+		"path": "pages/news/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的公告信息"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息添加/修改"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "公告信息详情"
+		}
+	}
+	,{
+		"path": "pages/shangjia/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "餐厅展示"
+		}
+	},{
+		"path": "pages/shangjia/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的餐厅"
+		}
+	},{
+		"path": "pages/shangjia/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "餐厅添加/修改"
+		}
+	},{
+		"path": "pages/shangjia/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "餐厅详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/list2",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的用户"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加/修改"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#71A842",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "美食推荐系统首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "美食推荐系统",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#fff",
+		"borderStyle": "black",
+		"backgroundColor": "#54C0CC",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/meishi/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "商品"
+			}
+			,{
+				"pagePath": "pages/shangjia/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "餐厅"
+			}
+			,{
+			 	"pagePath": "pages/forum/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "论坛"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+	// "permission": {
+	// 	"scope.userLocation": {
+	// 		"desc": ""
+	// 	}
+	// },
+	// "requiredPrivateInfos": ["getLocation", "chooseLocation"]
+}
